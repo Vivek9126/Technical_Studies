@@ -47,3 +47,7 @@ public class MissingDominosTiles {
 	}
 
 }
+//input:-   "0-0", "0-1", "0-2", "0-3", "1-0", "1-1", "1-2", "1-3"
+
+//output:-  With Java 7: 0-4
+//          With Java 8: 0-4
