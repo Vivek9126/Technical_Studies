@@ -1,3 +1,5 @@
+//Given a 2 dimensional integer array with negative numbers also. Have to find the minimum sum of elements excluding a row and column
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
